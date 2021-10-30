@@ -1,5 +1,5 @@
 # Fake-News-Detection
-Build an algorithm to determine if an article is fake news or not
+Build an algorithm to determine if an article is fake news or not 
 
 Dataset : https://www.kaggle.com/clmentbisaillon/fake-and-real-news-dataset
 
