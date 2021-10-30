@@ -12,3 +12,4 @@ Reference:
 - https://www.kite.com/python/answers/how-to-use-re.sub()-in-python
 - https://machinelearningmastery.com/develop-bidirectional-lstm-sequence-classification-python-keras/
 - https://algotech.netlify.app/blog/text-lstm/
+- https://www.tensorflow.org/api_docs/python/tf/keras/layers/Bidirectional
